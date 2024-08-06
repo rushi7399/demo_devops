@@ -1,0 +1,7 @@
+# Define a variable
+greeting = "Hello"
+name = "World"
+
+# Print the greeting and name
+print(f"{greeting}, {name}!")
+
