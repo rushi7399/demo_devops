@@ -1,0 +1,5 @@
+Hi Good Morning
+We are creating the file for basic git commands
+
+We have changed the file text
+
